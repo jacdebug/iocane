@@ -1,0 +1,23 @@
+{
+  "name": "iocane",
+  "version": "1.0.0",
+  "description": "Icoane game engine",
+  "main": "src/Iocane.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak-jacob/iocane.git"
+  },
+  "keywords": [
+    "iocane",
+    "game-engine"
+  ],
+  "author": "deepak jacob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepak-jacob/iocane/issues"
+  },
+  "homepage": "https://github.com/deepak-jacob/iocane#readme"
+}
