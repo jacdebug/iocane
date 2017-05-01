@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/deepak-jacob/iocane/issues"
   },
-  "homepage": "https://github.com/deepak-jacob/iocane#readme"
+  "homepage": "https://github.com/deepak-jacob/iocane#readme",
+  "dependencies": {
+    "webpack": "^2.4.1"
+  }
 }
