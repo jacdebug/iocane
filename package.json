@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/deepak-jacob/iocane#readme",
   "dependencies": {
+    "karma": "^1.6.0",
     "webpack": "^2.4.1"
   }
 }
